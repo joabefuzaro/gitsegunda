@@ -1,1 +1,39 @@
-alterar
+1. Oracle, introdução
+Unidade 2 - Conhecendo o componente
+Unidade 3 - Revisão SQL - Preparando o ambiente
+Unidade 4 - Resolva com SQL - L1  L2
+Unidade 5 - Resolva com SQL - L3 - Introdução às junções
+Unidade 6 - Resolva com SQL - L4 - SQL Subconsultas
+Unidade 7 - Instalação e uso de um SGBD
+Unidade 9 - Introdução aos comandos SQL*Plus
+Unidade 10 - Trabalhando com Sequências
+Unidade 11 - Trabalhando com Índices e Sinônmos
+Unidade 12 - Trabalhando com Sinônimos
+Unidade 13 - PL/SQL Developer
+Unidade 15 - Criando uma Procedure
+Unidade 16 - Procedimento PL/SQL
+Unidade 17 - Criando uma função PL/SQL
+Unidade 18 - Trabalhando com Packages PL/SQL
+Unidade 19 - Oracle - Triggers
+
+
+3. Uso do SQLPlus
+
+4. Criação de Tablespaces;
+
+5. Criação de usuários;
+
+6. Criação de Roles e privilégios;
+
+7. Usuários / Permissões
+
+8. Programação com PLSQL
+
+9. Procedures
+
+10. Triggers
+
+11. Functions
+
+12. Transações ( commit / rollback )
+
